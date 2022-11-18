@@ -15,7 +15,7 @@ import com.devsuperior.backend.entities.Sale;
 import com.devsuperior.backend.repositories.SaleRepository;
 
 @Service
-public class SaleService {
+public class SaleService{
 
     @Autowired
     private SaleRepository repository;
