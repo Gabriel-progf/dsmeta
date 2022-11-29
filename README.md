@@ -4,7 +4,7 @@ Projeto FullStack que consiste em notificar via SMS e organizar dados de vendedo
 Obs: os dados são filtrados através da seleção de data inicial e final pelo usuário.
 
 ## Layout web
-![]
+![Web 1](https://github.com/Gabriel-progf/dsmeta/blob/main/assets/Screenshot_21.png)
 
 # Tecnologias utilizadas
 ## Back end
