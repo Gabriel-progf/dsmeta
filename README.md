@@ -1,5 +1,5 @@
 # DSMeta
-Projeto FullStack que consiste em notificar via SMS e organizar dados de vendedores em seu setor de vendas, mostrando: data, nome do vendedor, visitas ao cliente, quantidades de vendas e total vendido.
+Projeto FullStack que consiste em notificar via SMS, e organizar dados de vendedores em seu setor de vendas, mostrando: data, nome do vendedor, visitas ao cliente, quantidades de vendas e total vendido.
 
 Obs: os dados são filtrados através da seleção de data inicial e final pelo usuário.
 
